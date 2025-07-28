@@ -1,6 +1,6 @@
 ## 🚍 Tracky – Smart Public Transit App for Sri Lanka
 
-**Tracky** is a smart public transit mobile app designed to simplify travel across Sri Lanka. It offers real-time schedules and GPS tracking for buses, trains, and three-wheelers, helping commuters better plan their journeys, reduce waiting times, and navigate the public transport system with ease.
+**Tracky** is a smart public transit mobile app designed to simplify travel across Sri Lanka. It offers real-time schedules and GPS tracking for buses, trains and three-wheelers, helping commuters better plan their journeys, reduce waiting times and navigate the public transport system with ease.
 
 Whether you're a daily commuter or an occasional traveler, Tracky ensures you're always on time, with up-to-date information at your fingertips. The app was built to make transit more predictable and less stressful—no more guessing when your ride will arrive or where to find it.
 
@@ -18,8 +18,8 @@ Whether you're a daily commuter or an occasional traveler, Tracky ensures you're
 
 ### 🛠️ Tech Stack
 
-- Flutter / React Native *(choose based on your build)*  
-- Firebase (Realtime Database)  
+-  React Native 
+- Firebase 
 - Google Maps API  
 - Git + GitHub  
 
@@ -29,7 +29,5 @@ Whether you're a daily commuter or an occasional traveler, Tracky ensures you're
 
 Public transportation in Sri Lanka is essential, but often unpredictable. Tracky was created to bridge the information gap in real-time transit data. By combining clean design with live location tracking, the app empowers users to make smarter, faster, and more informed travel decisions every day.
 
-
-Public transportation in Sri Lanka is essential, but often unpredictable. Tracky was created to bridge the information gap in real-time transit data. By combining clean design with live location tracking, the app empowers users to make smarter, faster, and more informed travel decisions every day.
 
 
