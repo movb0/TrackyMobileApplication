@@ -4,23 +4,16 @@ Tracky is a smart public transit mobile app designed to simplify travel across S
 Whether you're a daily commuter or an occasional traveler, Tracky ensures you're always on time, with up-to-date information at your fingertips. The app was built to make transit more predictable and less stressful—no more guessing when your ride will arrive or where to find it.
 
 🔧 Key Features
-🕒 Real-time arrival schedules
-
-📍 Live GPS tracking of public vehicles
-
-🚦 Smart route suggestions
-
-⏳ Wait time optimization
-
-📱 Simple, clean user interface
+Real-time arrival schedules
+Live GPS tracking of public vehicles
+Smart route suggestions
+Wait time optimization
+ Simple, clean user interface
 
 🛠️ Tech Stack
 React Native
-
 Firebase 
-
 Google Maps API
-
 Git + GitHub
 
 🌍 Why Tracky?
